@@ -1,0 +1,79 @@
+{
+  "count": 0,
+  "offset": 0,
+  "total": 0,
+  "vehicles": [
+    {
+      "id": "abc001",
+      "name": "truck001",
+      "registrationPlate": "VXO-PO23",
+      "registrationState": "active`",
+      "make": "Ford",
+      "model": "VXO",
+      "year": 2017,
+      "axles": 2,
+      "weightType": "HEAVY",
+      "rucVehicleStatus": true,
+      "vin": "JM1GJ1V60E1150643",
+      "huboSerialNumber": "78323",
+      "assetCode": "xft872",
+      "costCentre": "8912",
+      "vehicleType": "VEHICLE",
+      "assetType": "transport",
+      "fleets": [
+        {
+          "id": "abc234",
+          "name": "fleet01"
+        }
+      ]
+    },
+    {
+      "id": "abc002",
+      "name": "truck002",
+      "registrationPlate": "LMN-009",
+      "registrationState": "active",
+      "make": "Ford",
+      "model": "LMN",
+      "year": 2018,
+      "axles": 2,
+      "weightType": "HEAVY",
+      "rucVehicleStatus": true,
+      "vin": "1GKS2EEF4BR359657",
+      "huboSerialNumber": "0923",
+      "assetCode": "ooi923",
+      "costCentre": "8912",
+      "vehicleType": "VEHICLE",
+      "assetType": "transport",
+      "fleets": [
+        {
+          "id": "abc234",
+          "name": "fleet01"
+        }
+      ]
+    },
+    {
+      "id": "abc003",
+      "name": "fleet03",
+      "registrationPlate": "SDE-009I",
+      "registrationState": "active",
+      "make": "Toyota",
+      "model": "SDE",
+      "year": 2010,
+      "axles": 2,
+      "weightType": "HEAVY",
+      "rucVehicleStatus": true,
+      "vin": "1VWBS7A38FC038942",
+      "huboSerialNumber": "0924",
+      "assetCode": "oow092",
+      "costCentre": "8913",
+      "vehicleType": "VEHICLE",
+      "assetType": "transport",
+      "fleets": [
+        {
+          "id": "abc234",
+          "name": "fleet01"
+        }
+      ]
+    }
+  ]
+}
