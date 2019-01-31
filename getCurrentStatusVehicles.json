@@ -1,0 +1,104 @@
+{
+  "totalResultCount": 0,
+  "results": [
+    {
+      "id": "abc001",
+      "status": "IGNITION_ON",
+      "trailerConnected": "not connected",
+      "trailerList": {
+        "trailerName": [
+          ""
+        ]
+      },
+      "gpsFix": {
+        "timestamp": "2019-01-31T04:29:43.301Z",
+        "coordinate": {
+          "latitude": 33.291300,
+          "longitude": -111.737740
+        },
+        "courseOverGround": 0,
+        "speedKph": 54,
+        "gpsAccuracy": 0
+      },
+      "distanceReading": 78323,
+      "odometer": 89333,
+      "engineHours": 231,
+      "readableLocation": "3301 South Greenfield Rd Gilbert, AZ 85297",
+      "currentDriverId": "093",
+      "billOfLading": "",
+      "inputs": [
+        {
+          "number": 0,
+          "name": "",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "id": "abc002",
+      "status": "IGNITION_ON",
+      "trailerConnected": "not connected",
+      "trailerList": {
+        "trailerName": [
+          ""
+        ]
+      },
+      "gpsFix": {
+        "timestamp": "2019-01-31T04:29:43.301Z",
+        "coordinate": {
+          "latitude": 42.414070,
+          "longitude": -71.191860
+        },
+        "courseOverGround": 82,
+        "speedKph": 66,
+        "gpsAccuracy": 0
+      },
+      "distanceReading": 87323,
+      "odometer": 898812,
+      "engineHours": 892,
+      "readableLocation": "86 Frontage Road Belmont, MA ",
+      "currentDriverId": "933",
+      "billOfLading": "09122",
+      "inputs": [
+        {
+          "number": 0,
+          "name": "",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "id": "abc003",
+      "status": "IGNITION_ON",
+      "trailerConnected": "not connected`",
+      "trailerList": {
+        "trailerName": [
+          ""
+        ]
+      },
+      "gpsFix": {
+        "timestamp": "2019-01-31T04:29:43.301Z",
+        "coordinate": {
+          "latitude": 26.070090,
+          "longitude": -80.355350
+        },
+        "courseOverGround": 0,
+        "speedKph": 0,
+        "gpsAccuracy": 0
+      },
+      "distanceReading": 0,
+      "odometer": 0,
+      "engineHours": 0,
+      "readableLocation": "3901 SW 154th Ave Davie, FL 33331",
+      "currentDriverId": "944",
+      "billOfLading": "09234",
+      "inputs": [
+        {
+          "number": 0,
+          "name": "",
+          "value": ""
+        }
+      ]
+    }
+  ]
+}
