@@ -1,0 +1,15 @@
+{
+  "count": 2,
+  "offset": 0,
+  "total": 0,
+  "fleets": [
+    {
+      "id": "abc234",
+      "name": "fleet01"
+    },
+    {
+      "id": "abc235",
+      "name": "fleet02"
+    }
+  ]
+}
